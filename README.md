@@ -97,8 +97,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/divik09102003/divik09102003/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phat0101/Phat0101/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phat0101/Phat0101/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Phat0101/Phat0101/output/github-snake.svg" />
+</picture>
 ###
 
 <div align="left">
