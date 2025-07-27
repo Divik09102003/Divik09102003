@@ -86,6 +86,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://static.vecteezy.com/system/resources/previews/024/558/811/non_2x/openai-chatgpt-logo-icon-free-png.png" height="30" alt="OpenAI logo"/>
+  <img width="12" />
+  <img src="https://ih1.redbubble.net/image.5611428487.0532/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" height="30" alt="Llama logo"/>
+  <img width="20" />
+  <img src="https://www.boisestate.edu/oit/wp-content/uploads/sites/42/2023/08/Google_Bard_logo-300x300.jpg" height="30" alt="Gemini logo"/>
+  <img width="12" />
+  <img src="https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_400x400.jpg" height="30" alt="RAG logo"/>
 </div>
 
 ###
@@ -102,6 +112,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phat0101/Phat0101/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Phat0101/Phat0101/output/github-snake.svg" />
 </picture>
+
 ###
 
 <div align="left">
